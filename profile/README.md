@@ -1,4 +1,4 @@
-## ID2223 Scalable Machine Learning and Deep Learning course at KTH 2022, Brando Chiminelli and Tommaso Praturlon
+## ID2223 Scalable Machine Learning and Deep Learning course at KTH - Brando Chiminelli and Tommaso Praturlon - Autumn 2022
 
 <!--
 
